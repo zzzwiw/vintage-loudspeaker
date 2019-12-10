@@ -7,7 +7,9 @@ This is a experimental loudspeaker project that is completely designed using the
 
 The main case is built by using CNC milling from 10mm plywood. Decor was made from 3mm plywood by laser cutting.
 
-Main file: das.scad
+![OpenSCAD preview](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic01.png)
+
+Construction file: das.scad
 
 The curves for CNC and lasercutting can be exported to DXF by rendering the this file in 2D mode. Option "mod3d" at the beginning of files changed 2D / 3D view mode. Options "inner2d" and "decor2d" changes different sets of 2D details.
 
@@ -16,3 +18,8 @@ This construction can be easily modified for another box size, speaker size and 
 In the 3D preview you can set the value of parameters "explode_vert" and "explode_horz" differ from 0 to make explode view.
 
 Use parameters "open_top", "no_cover", "no_fpanels" in the 3D mode to hide specified parts of construction.
+
+![OpenSCAD preview](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic02.png)
+
+![OpenSCAD preview](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic03.png)
+
