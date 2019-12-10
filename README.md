@@ -11,7 +11,7 @@ The main case is built by using CNC milling from 10mm plywood. Decor was made fr
 
 ![OpenSCAD preview](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic01.png)
 
-Construction file: das.scad
+Construction file: "das.scad". Also you need "door1.dxf" file for decoration elements. Place these files in the same directory.
 
 The curves for CNC and lasercutting can be exported to DXF by rendering the this file in 2D mode. Option "mod3d" at the beginning of files changed 2D / 3D view mode. Options "inner2d" and "decor2d" changes different sets of 2D details.
 
