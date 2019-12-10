@@ -13,4 +13,6 @@ The curves for CNC and lasercutting can be exported to DXF by rendering the this
 
 This construction can be easily modified for another box size, speaker size and plywood thickness. All parameters which define sizes of this construction are specified at the beginning of file. But be careful when changing them. You will need to check whole construction in 3D preview to make sure that all details will connected correctly.
 
+In the 3D preview you can set the value of parameters "explode_vert" and "explode_horz" differ from 0 to make explode view.
 
+Use parameters "open_top", "no_cover", "no_fpanels" in the 3D mode to hide specified parts of construction.
