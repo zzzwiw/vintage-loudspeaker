@@ -7,7 +7,7 @@ This loudspeaker built with using three low / mid range speakers and two tweeter
 
 This is a experimental loudspeaker project that is completely designed using the parametric CAD tools provided by OpenSCAD. In order to deal with this source code you'll need to install OpenSCAD, following the instructions at: www.openscad.org
 
-The main case is built by using CNC milling from 10mm plywood. Decor was made from 3mm plywood by laser cutting. The main details of construction are glued with PVA (Polyvinyl acetate) glue. But front and side speaker panels and decoration panels are fastened by screws. So I do not recommend use plywood thinner that 9mm because there may be problems using screws.
+The main case is built by using CNC milling from 10mm plywood. Decor was made from 3mm plywood by laser cutting. Total box size is 380x330x140mm. The main details of construction are glued with PVA (Polyvinyl acetate) glue. But front and side speaker panels and decoration panels are fastened by screws. So I do not recommend use plywood thinner that 9mm because there may be problems using screws.
 
 ![OpenSCAD preview](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic01.png)
 
