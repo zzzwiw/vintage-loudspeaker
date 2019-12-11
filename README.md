@@ -1,5 +1,7 @@
 # vintage-loudspeaker
-An experimental loudspeaker stylized as vintage speakers from the 30s, 40s. 
+An experimental loudspeaker stylized as vintage speakers from the 30s, 40s.
+
+More details about this project: https://motion-soundscape.blogspot.com/2019/12/project-vintage-loudspeaker-final.html
 
 This loudspeaker built with using three low / mid range speakers and two tweeter and based on "Open box" design with using some horn elements. It copies the typical design of the vintage radio and reel-to-reel equipment where speakers were in the same box with PCBs and mechanical parts.
 
