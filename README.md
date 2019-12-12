@@ -27,7 +27,17 @@ Use parameters "open_top", "no_cover", "no_fpanels" in the 3D mode to hide speci
 
 ![OpenSCAD preview](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic03.png)
 
+
 Assembly process.
+
+Internal space of the case was glued with synthetic felt for better sound absorption. Also was used PVA (Polyvinyl acetate) glue.
+
+With front and side decoration frames was used brass rods d = 4mm. Holes in the small triangle parts glued to these frames also 4mm.
+
+The outsides of the whole box was treated with wood oil on two layers. I used wood oil Osmo (https://osmo-store.com) "3073 Terra transparent" for the first layer and "3032 Farblos" for the second. But you can use any others. The oil gives a very stable coating and a pleasant to the touch surface. 
+
+Be attentive, when treated with the oil, all defects at the plywood grinding (chips, scratches, cracks) will be clearly visible.
+
 
 ![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0101.jpg)
 
@@ -40,5 +50,4 @@ Assembly process.
 ![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0105.jpg)
 
 ![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0106.jpg)
-
 
