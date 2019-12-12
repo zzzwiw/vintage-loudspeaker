@@ -29,16 +29,16 @@ Use parameters "open_top", "no_cover", "no_fpanels" in the 3D mode to hide speci
 
 Assembly process.
 
-![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0101.png)
+![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0101.jpg)
 
-![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0102.png)
+![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0102.jpg)
 
-![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0103.png)
+![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0103.jpg)
 
-![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0104.png)
+![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0104.jpg)
 
-![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0105.png)
+![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0105.jpg)
 
-![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0106.png)
+![Assembly process](https://raw.githubusercontent.com/zzzwiw/vintage-loudspeaker/master/images/das-pic0106.jpg)
 
 
